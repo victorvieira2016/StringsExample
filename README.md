@@ -1,1 +1,2 @@
 # StringsExample
+# StringsMethods
